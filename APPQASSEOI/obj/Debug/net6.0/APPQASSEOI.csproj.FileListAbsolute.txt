@@ -1,0 +1,35 @@
+C:\Users\Acer\Desktop\APPQASSEOI\bin\Debug\net6.0\APPQASSEOI.exe
+C:\Users\Acer\Desktop\APPQASSEOI\bin\Debug\net6.0\APPQASSEOI.deps.json
+C:\Users\Acer\Desktop\APPQASSEOI\bin\Debug\net6.0\APPQASSEOI.runtimeconfig.json
+C:\Users\Acer\Desktop\APPQASSEOI\bin\Debug\net6.0\APPQASSEOI.dll
+C:\Users\Acer\Desktop\APPQASSEOI\bin\Debug\net6.0\APPQASSEOI.pdb
+C:\Users\Acer\Desktop\APPQASSEOI\obj\Debug\net6.0\APPQASSEOI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Desktop\APPQASSEOI\obj\Debug\net6.0\APPQASSEOI.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\APPQASSEOI\obj\Debug\net6.0\APPQASSEOI.AssemblyInfo.cs
+C:\Users\Acer\Desktop\APPQASSEOI\obj\Debug\net6.0\APPQASSEOI.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\APPQASSEOI\obj\Debug\net6.0\APPQASSEOI.dll
+C:\Users\Acer\Desktop\APPQASSEOI\obj\Debug\net6.0\refint\APPQASSEOI.dll
+C:\Users\Acer\Desktop\APPQASSEOI\obj\Debug\net6.0\APPQASSEOI.pdb
+C:\Users\Acer\Desktop\APPQASSEOI\obj\Debug\net6.0\APPQASSEOI.genruntimeconfig.cache
+C:\Users\Acer\Desktop\APPQASSEOI\obj\Debug\net6.0\ref\APPQASSEOI.dll
+C:\Users\Acer\Desktop\Trilhas CSharp\APPQASSEOI\obj\Debug\net6.0\APPQASSEOI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Desktop\Trilhas CSharp\APPQASSEOI\obj\Debug\net6.0\APPQASSEOI.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\Trilhas CSharp\APPQASSEOI\obj\Debug\net6.0\APPQASSEOI.AssemblyInfo.cs
+C:\Users\Acer\Desktop\Trilhas CSharp\APPQASSEOI\obj\Debug\net6.0\APPQASSEOI.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\Trilhas CSharp\APPQASSEOI\obj\Debug\net6.0\APPQASSEOI.dll
+C:\Users\Acer\Desktop\Trilhas CSharp\APPQASSEOI\obj\Debug\net6.0\refint\APPQASSEOI.dll
+C:\Users\Acer\Desktop\Trilhas CSharp\APPQASSEOI\obj\Debug\net6.0\APPQASSEOI.pdb
+C:\Users\Acer\Desktop\CSharp\APPQASSEOI\obj\Debug\net6.0\APPQASSEOI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Desktop\CSharp\APPQASSEOI\obj\Debug\net6.0\APPQASSEOI.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\CSharp\APPQASSEOI\obj\Debug\net6.0\APPQASSEOI.AssemblyInfo.cs
+C:\Users\Acer\Desktop\CSharp\APPQASSEOI\obj\Debug\net6.0\APPQASSEOI.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\CSharp\APPQASSEOI\obj\Debug\net6.0\APPQASSEOI.dll
+C:\Users\Acer\Desktop\CSharp\APPQASSEOI\obj\Debug\net6.0\refint\APPQASSEOI.dll
+C:\Users\Acer\Desktop\CSharp\APPQASSEOI\obj\Debug\net6.0\APPQASSEOI.pdb
+C:\Users\Acer\Desktop\CSharp\APPQASSEOI\bin\Debug\net6.0\APPQASSEOI.exe
+C:\Users\Acer\Desktop\CSharp\APPQASSEOI\bin\Debug\net6.0\APPQASSEOI.deps.json
+C:\Users\Acer\Desktop\CSharp\APPQASSEOI\bin\Debug\net6.0\APPQASSEOI.runtimeconfig.json
+C:\Users\Acer\Desktop\CSharp\APPQASSEOI\bin\Debug\net6.0\APPQASSEOI.dll
+C:\Users\Acer\Desktop\CSharp\APPQASSEOI\bin\Debug\net6.0\APPQASSEOI.pdb
+C:\Users\Acer\Desktop\CSharp\APPQASSEOI\obj\Debug\net6.0\APPQASSEOI.genruntimeconfig.cache
+C:\Users\Acer\Desktop\CSharp\APPQASSEOI\obj\Debug\net6.0\ref\APPQASSEOI.dll
